@@ -1,0 +1,17 @@
+[General]
+Title=Future Soft
+Background=Blue,Centered,C:\SETUP\ELEKID1.BMP
+Directory=c:\futsoft\abc_arab
+ArchiveName=SETUP
+RegistrationINI=$Windows$\asym.ini,Registered Apps
+FullInstallBMP=DEFAULT
+Common=MTB30,$windows$\asym\runtime,3.0,United States
+
+[Component0]
+Name=Main
+TotalSize=766
+File0=abc.ico,$Install$,f:\abc_cd\abc,AlwaysCopy,0
+
+[DefaultComponent]
+PMGroupItem0=›ÌÊ ‘—”Ê› ,$Source$\abc,ﬁÿ«— «·Õ—Ê›,$Install$\ABC.ICO,0
+PMGroupItem1=›ÌÊ ‘—”Ê› ,$Source$\futsoft\fs_demo,⁄—÷ ··»—«„Ã

@@ -1,0 +1,96 @@
+ScriptOMaticª Lite Xtraª QUICK START Instructions
+
+Open ScriptOMatic Lite Xtra as a "movie in a window" (MIAW) by selecting "ScriptOMatic Lite" from the Xtras menu.  Click the Start button.  Start formatting!
+
+ScriptOMatic Lite Xtra DOCUMENTATION
+
+What is ScriptOMatic Lite Xtra?
+
+ScriptOMatic Lite Xtra is a tool for Director 6 users to quickly and easily format Lingo scripts using custom selections of color, font, font size and font style.  This is very useful because it helps:
+
+¥  Identify problems with code structure or logic during debugging.
+¥  Make your code more readable to yourself and others.
+¥  Locate areas of potential performance optimization.
+¥  Assist those who are teaching Lingo to others by identifying syntax structure.
+¥  Manage complex code structures.
+¥  Create professional results for clients who require source code.
+¥  Have fun writing Lingo!
+
+How to Use ScriptOMatic Lite Xtra
+
+Click the Start button to the right to start using ScriptOMatic Xtra.
+
+Select which elements of your Lingo scripts you wish to format using the checkboxes on the left side of the dialog.  Any combination you wish is supported.
+
+Select the formatting style desired for each syntax element.
+
+Color:  Select a color for the script text.  Colors are referenced by name but should match the nearest equivalent in the current palette and color depth.
+Style:  Select a style for the script text.
+Font:  Select either Monospaced (Monaco on Macintosh and Arial on Windows) or Proportional (Times on Macintosh and Times New Roman on Windows.)
+Size:  Select a size for the script text.
+
+Click on one of the following buttons:
+Click Format to format the current script selected in the stage movie.
+Click Format All to format the first 5 scripts in the stage movie.
+Click Reset to reset the style selections to default values.
+Click About... to view credits.
+Click Cancel to close ScriptOMatic Xtra.
+Click Help to read a summary of these instructions.
+
+What's the Difference Between the Lite and the Full Versions?
+
+The Full version of ScriptOMatic Xtra adds the following features:
+
+¥  Near real-time formatting.
+¥  Automatic script styling based on a user-defined key, such as TAB.
+¥  Unlimited formatting.  The Lite version has two limits:  The Format All button will only format the first 5 scripts found in the stage movie and you can only use the Format buttons 20 times per session.
+¥  Additional syntax options, including Lingo keywords (by category), code structure formatting (repeat..end repeat, case..end case, tell.. end tell, etc.) and more.
+¥  Custom color chip selection for script text.
+¥  Multiple text styles (i.e. bold AND italic) for script text.
+¥  Custom font selection for script text (any installed font.)
+¥  "As is" options for style choices.  This will preserve any current attribute of the script text.
+¥  Style sheets.  Both a set of carefully designed style sheets and the ability to create and save your own.
+¥  Functioning formatting preview which matches your current style selections.
+¥  Printing of styled scripts with custom printing options for headers and footers.
+¥  More window layout options (including a toolbar MUI-style strip.)
+¥  Display preferences (remembers window position and last used options.)
+¥  More.  We haven't thought of everything yet!
+
+If you have ideas for specific improvements or features, please let us know by sending an email to <ideas@gmatter.com>.
+
+How do I Purchase the Full Version of ScriptOMatic Xtra?
+
+You can order a full copy of ScriptOMatic Xtra directly from g/matter, inc.  We can be reached at:
+
+g/matter, inc.
+300 Brannan Street, Suite 210
+San Francisco, California USA 94107
+Phone: +1-415-243-0394
+Fax: +1-415-243-0396
+Email: <sales@gmatter.com>
+Website: http://www.gmatter.com/
+
+RELEASE NOTES
+
+Version 1.0:
+First public release.
+
+TROUBLESHOOTING
+
+Do not use the Lingo command "clearGlobals" while running ScriptOMatic Lite Xtra.  This will cause the software to stop working.
+
+If you receive a Minor or Major Error alert dialog, ScriptOMatic has encountered a Lingo script which has confused its parser.  As of the release of version 1.0, there are no known parsing problems.  So, if you get one of these errors, please email the entire script which caused the error to <support@gmatter.com> and we'll fix the problem!
+
+CREDITS
+
+ScriptColor Xtra component - engineering by
+       Glenn Picher, Dirigo Multimedia <gpicher@maine.com>
+ScriptOMatic Parser/Formatter components - engineering by
+       Terry R. Schussler, g/matter, inc. <schussler@gmatter.com>
+
+ScriptOMaticª Xtraª is copyright (c) 1997 by g/matter, inc.
+ScriptColorª Xtraª is copyright (c) 1997 by g/matter, inc.
+PopMenuª Xtraª is copyright (c) 1997 by g/matter, inc. and Red Eye Software.
+All Rights Reserved.
+
+http://www.gmatter.com

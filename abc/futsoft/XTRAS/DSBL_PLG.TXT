@@ -1,0 +1,39 @@
+Anti-aliased Pict
+Color Halftone
+Lens Flare
+NTSC Colors
+Variations
+Wind
+Texture Fill
+PICT Resource
+Pinch
+Polar Coordinates
+Ripple
+Shear
+Spherize
+Twirl
+Wave
+TWAIN Acquire
+TWAIN - Acquire
+TWAIN Select Source
+TWAIN - Select Source
+ZigZag
+Lighting Effects
+KPT 3D Stereo Noise 2.1
+Chromassageª
+Radar
+VectorGraph
+Lumpy_Noise
+Carve 2.0
+Cutout 2.0
+Drop Shadow 2.0
+Glass 2.0
+Glow 2.0
+HSB Noise 2.0
+Inner Bevel 2.0
+Motion Trail 2.0
+Outer Bevel 2.0
+Swirl 2.0
+  KPT Help
+ KPT Seamless Welder 2.1
+Bump
